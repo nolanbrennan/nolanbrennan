@@ -23,7 +23,7 @@ RANSAC-based homography estimation, and geometric reasoning.
 
 **AWS AI Operations & Anomaly Detection**  
 Production-oriented ML pipelines for detecting infrastructure anomalies across AWS services.
-Integrated CloudWatch, Lambda, SageMaker, and containerized deployments to reduce false positives and alert fatigue.
+Integrated CloudWatch, Lambda, SageMaker, and containerized deployments to reduce false positives and alert fatigue. (Code not public.)
 
 ---
 
