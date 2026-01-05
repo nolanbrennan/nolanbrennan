@@ -32,5 +32,5 @@ Integrated CloudWatch, Lambda, SageMaker, and containerized deployments to reduc
 - Experience in ML research, MLOps, and production model deployment
 - Comfortable across modeling, data engineering, and systems-level design
 
-📄 Resume: https://github.com/nolanbrennan/nolanbrennan/blob/main/Nolan_Brennan_Resume.pdf
+📄 Resume: [Nolan_Brennan_Resume.pdf](https://github.com/nolanbrennan/nolanbrennan/blob/main/Nolan_Brennan_Resume.pdf)  
 🔗 LinkedIn: https://www.linkedin.com/in/nolan-brennan/
