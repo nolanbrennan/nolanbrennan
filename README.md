@@ -9,15 +9,15 @@ Interested in applied ML, ML systems, and backend roles at the intersection of d
 
 ### Selected Projects
 
-**O*NET Latent Space Modeling**  
+[**O*NET Latent Space Modeling**](https://github.com/nolanbrennan/O-Net-Caregiving-Careers-SVM)  
 Unsupervised learning pipeline to reclassify occupational categories using large-scale labor market data.
 Applied clustering and one-class models to uncover latent structure and translate results into policy-relevant insights.
 
-**Question Answering System (RAG + Transformers)**  
+[**Question Answering System (RAG + Transformers)**](https://github.com/nolanbrennan/Quizbowl-Question-Answering-Model)  
 End-to-end question answering system using retrieval-augmented generation.
 Designed retrieval, ranking, and evaluation pipelines to balance accuracy, latency, and robustness.
 
-**Panorama Image Stitching**  
+[**Panorama Image Stitching**](https://github.com/nolanbrennan/Panorama)  
 Computer vision pipeline for stitching overlapping images into seamless panoramas using feature detection,
 RANSAC-based homography estimation, and geometric reasoning.
 
