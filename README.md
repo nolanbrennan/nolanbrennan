@@ -25,7 +25,7 @@ RANSAC-based homography estimation, and geometric reasoning.
 Production embedding microservice deployed on AWS SageMaker with scalable inference endpoints.
 Transforms categorical, numerical, and time-series inputs into dense feature embeddings using learned categorical representations and cyclical temporal encodings, enabling downstream fraud detection and financial messaging models at SWIFT. (Code not public.)
 
-**MPI K-Means HPC**(https://github.com/nolanbrennan/K-means-HPC)  
+[**MPI K-Means HPC**](https://github.com/nolanbrennan/K-means-HPC)  
 Distributed implementation of the K-Means clustering algorithm in C using MPI on a high-performance computing cluster.
 Parallelized dataset partitioning and centroid updates with collective communication primitives and evaluated scalability across multiple processors. Implemeted on University of Maryland's HPC Cluster.
 
