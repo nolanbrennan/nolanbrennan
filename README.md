@@ -21,6 +21,14 @@ Designed retrieval, ranking, and evaluation pipelines to balance accuracy, laten
 Computer vision pipeline for stitching overlapping images into seamless panoramas using feature detection,
 RANSAC-based homography estimation, and geometric reasoning.
 
+**AWS Production Embedding Model**  
+Production embedding microservice deployed on AWS SageMaker with scalable inference endpoints.
+Transforms categorical, numerical, and time-series inputs into dense feature embeddings using learned categorical representations and cyclical temporal encodings, enabling downstream fraud detection and financial messaging models at SWIFT. (Code not public.)
+
+**MPI K-Means HPC**(https://github.com/nolanbrennan/K-means-HPC)  
+Distributed implementation of the K-Means clustering algorithm in C using MPI on a high-performance computing cluster.
+Parallelized dataset partitioning and centroid updates with collective communication primitives and evaluated scalability across multiple processors. Implemeted on University of Maryland's HPC Cluster.
+
 **AWS AI Operations & Anomaly Detection**  
 Production-oriented ML pipelines for detecting infrastructure anomalies across AWS services.
 Integrated CloudWatch, Lambda, SageMaker, and containerized deployments to reduce false positives and alert fatigue. (Code not public.)
